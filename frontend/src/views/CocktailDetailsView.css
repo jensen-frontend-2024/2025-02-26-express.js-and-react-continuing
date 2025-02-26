@@ -1,0 +1,4 @@
+.cocktail-details-view .ingredients .ingredient {
+  display: flex;
+  gap: 0.5rem;
+}
